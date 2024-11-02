@@ -22,7 +22,7 @@ def login():
         messagebox.showerror("Error", response.text)
 
 root = tk.Tk()
-root.title("Banking App")
+root.title("saliver")
 
 tk.Label(root, text="Username").pack()
 username_entry = tk.Entry(root)
